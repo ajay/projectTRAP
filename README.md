@@ -8,3 +8,9 @@ Pavan - Gestures, STL
 Ajay - chilitag stream, oculus + cams, backpack
 
 Reina - watson
+
+
+#### Done so far:
+
+- Input camera streams w/ gstreamer
+- Barrel vision
